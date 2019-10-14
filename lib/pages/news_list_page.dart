@@ -7,6 +7,7 @@ class NewsListPage extends StatefulWidget{
 }
 
 class _NewsListPageState extends State<NewsListPage>{
+  var val = 12~/7;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
